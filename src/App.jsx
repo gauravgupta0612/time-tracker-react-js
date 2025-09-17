@@ -1,6 +1,6 @@
-import { useAuth } from './context/useAuth.jsx';
-import Login from './components/Login';
-import Dashboard from './components/Dashboard';
+import { useAuth } from '../useAuth.jsx';
+import Login from './Login.jsx';
+import Dashboard from './Dashboard.jsx';
 import './App.css';
 
 function App() {

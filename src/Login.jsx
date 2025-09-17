@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useAuth } from './context/useAuth.jsx';
+import { useAuth } from '../useAuth.jsx';
 
 function Login() {
   const [username, setUsername] = useState('');
