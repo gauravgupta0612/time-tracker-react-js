@@ -129,9 +129,14 @@
 }
 
 .start-btn {
-  backgrour:34a i
+  background:#1a73e8;
+  color: white;
 }
-s{
+
+.start-btn:hover {
+  background-color:34a i
+}
+.start-btn:hover {
   background-color: #4CAF50;
 }
 
