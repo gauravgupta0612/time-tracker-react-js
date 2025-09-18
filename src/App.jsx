@@ -1,4 +1,4 @@
-import { useAuth } from '../useAuth.jsx';
+import { useAuth } from './useAuth.jsx';
 import Login from './Login.jsx';
 import Dashboard from './Dashboard.jsx';
 import './App.css';

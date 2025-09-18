@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import TimeTracker from './TimeTracker.jsx';
 import Summary from './Summary.jsx';
-import { useAuth } from '../useAuth.jsx';
+import { useAuth } from './useAuth.jsx';
 
 function Dashboard() {
   const [entries, setEntries] = useState([]);
